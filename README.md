@@ -1,0 +1,2 @@
+# amazontest
+clone amazon
